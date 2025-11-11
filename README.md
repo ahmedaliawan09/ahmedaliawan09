@@ -22,8 +22,7 @@
 ## 🔥 About Me
 - 💻 **Computer Science Graduate** passionate about web apps, AI, and automation.  
 - 🚀 Currently developing a **real-time Task Management App (TaskFlow)** using React, Vite, Socket.io, and MongoDB.  
-- 🧠 Skilled in **AI tools** like Whisper, Gemini, and LSTM for generative projects.    
-- 🌱 Currently learning **Next.js, TypeScript, and Cloud Integrations.**  
+- 🌱 Currently learning **Next.js, Mern Stack, GEN-AI.**  
 - 📫 Reach me at: **ahmedawan81151@gmail.com**
 
 ---
