@@ -8,7 +8,7 @@
 <pre>
 ╔════════════════════════════════════════════════════════════════════════╗
 ║             FULL STACK DEVELOPER • AI CREATOR • MEDIA STRATEGIST        ║
-║         MERN | NEXT.JS | SOCKET.IO | PYTHON | AI | STREAMLIT | MongoDB  ║
+║         MERN | NEXT.JS | SOCKET.IO | PYTHON | AI | STREAMLIT | .Net  ║
 ╚════════════════════════════════════════════════════════════════════════╝
 </pre>
 </div>
@@ -21,8 +21,8 @@
 
 ## 🔥 About Me
 - 💻 **Computer Science Graduate** passionate about web apps, AI, and automation.  
-- 🚀 Currently developing a **real-time Task Management App (TaskFlow)** using React, Vite, Socket.io, and MongoDB.  
-- 🌱 Currently learning **Next.js, Mern Stack, GEN-AI.**  
+- 🚀 Devoloping apps using Mern,Next.js, Socket.io,  MongoDB, .Net.  
+- 🌱 Learning **Next.js, Mern Stack, GEN-AI, .Net .**  
 - 📫 Reach me at: **ahmedawan81151@gmail.com**
 
 ---
