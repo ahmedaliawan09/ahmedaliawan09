@@ -14,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1200&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+Real-Time+Task+Management+Apps;Creating+AI-Powered+Tools+and+Poetry+Generators;Mastering+MERN+%7C+Next.js+%7C+Socket.io;Turning+Ideas+into+Interactive+Web+Experiences" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=1200&color=00C7B7&center=true&vCenter=true&width=700&lines=]Mastering+MERN+%7C+Next.js+%7C+Socket.io;+.Net;Turning+Ideas+into+Interactive+Web+Experiences" alt="Typing Animation">
 </p>
 
 ---
